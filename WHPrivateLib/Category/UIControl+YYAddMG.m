@@ -11,7 +11,6 @@
 
 #import "UIControl+YYAddMG.h"
 #import <objc/runtime.h>
-#import "MGMacro.h"
 
 YYSYNTH_DUMMY_CLASS(UIControl_YYAddMG)
 
